@@ -6,6 +6,8 @@
 
 ---
 
+Note: This library is not under active development. It should be fully compatible with FKB 5.0 standards, but if any further FKB versions introduce incompatibility, feel free to submit a pull request and I will merge it. 
+
 sosilogikk is a small utility to read Norwegian SOSI vector files (FKB 5.x) into GeoPandas, and write them back out. It handles the SOSI header, encoding, ENHET scaling, KOORDSYS→EPSG mapping, and assembles geometries (points, curves, polygons).
 
 ## Install
